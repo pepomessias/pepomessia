@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(91,24,24)
+
+}
+  #banner{
+width:100;
+
+h1 {
+    color: antiquewhite
+}
+
+p {
+    color: rgb(249,212,174)
+    text-align: center;
+    font-size: 16px;
+   
+    {
+
+   p {
+    em strong {
+        color:antiquewhite
+    }
+    ul{
+        color:antiquewhite
+    }
