@@ -23,3 +23,23 @@ p {
     ul{
         color:antiquewhite
     }
+ul{
+    display:inline-block
+    vertical-align: top;
+    width: 20%;
+    margin-rigth: 15%;
+}
+
+
+    .beneficios {
+        background: #fffff;
+
+    }
+     
+    h2{
+         text-align: center;
+    }
+
+    .imagembeneficios{
+        width: 50%;
+    }
